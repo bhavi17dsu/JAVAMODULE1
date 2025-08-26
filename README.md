@@ -37,6 +37,9 @@
 13.EVEN OR ODD ARRAY
 ![Screenshot_26-8-2025_111840_www programiz com](https://github.com/user-attachments/assets/02710d3e-e1d4-44ec-80e0-ec6d93ac40d6)
 
+14.SEARCH ARRAY
+![Screenshot_26-8-2025_114622_www programiz com](https://github.com/user-attachments/assets/939883cf-ae70-4a93-bd38-0a1c944c3cdc)
+
 
 
 
