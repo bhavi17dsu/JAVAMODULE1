@@ -31,5 +31,9 @@
 11.USER ARRAY
 ![Screenshot_25-8-2025_12649_www programiz com](https://github.com/user-attachments/assets/04b2e756-6093-4838-a762-1ae9670d9d18)
 
+12.SUM OF ARRAY
+![Screenshot_26-8-2025_11840_www programiz com](https://github.com/user-attachments/assets/40fe2918-9894-4b60-b2c7-4e0b6642a5d4)
+
+
 
 
