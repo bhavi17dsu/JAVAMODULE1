@@ -34,6 +34,10 @@
 12.SUM OF ARRAY
 ![Screenshot_26-8-2025_11840_www programiz com](https://github.com/user-attachments/assets/40fe2918-9894-4b60-b2c7-4e0b6642a5d4)
 
+13.EVEN OR ODD ARRAY
+![Screenshot_26-8-2025_111840_www programiz com](https://github.com/user-attachments/assets/02710d3e-e1d4-44ec-80e0-ec6d93ac40d6)
+
+
 
 
 
