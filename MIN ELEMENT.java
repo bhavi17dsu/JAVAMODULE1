@@ -8,7 +8,7 @@ class array{
             n[i]=sc.nextInt();
         }
         int min=n[0];
-        System.out.println("MAX ELEMENT");
+        System.out.println("MIN ELEMENT");
         for(int num:n){
             if(num < min)min=num;
         }
