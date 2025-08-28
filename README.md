@@ -40,6 +40,34 @@
 14.SEARCH ARRAY
 ![Screenshot_26-8-2025_114622_www programiz com](https://github.com/user-attachments/assets/939883cf-ae70-4a93-bd38-0a1c944c3cdc)
 
+15.GREATER THAN 50
+![Screenshot_27-8-2025_20378_www programiz com](https://github.com/user-attachments/assets/ea9092c6-eacf-4b01-aecc-f1c841f1080c)
+
+16.REVERSE ARRAY
+![Screenshot_27-8-2025_204344_www programiz com](https://github.com/user-attachments/assets/927846f0-edaa-476a-9441-f89b614181f1)
+
+17.EVEN ARRAY
+![Screenshot_27-8-2025_205450_www programiz com](https://github.com/user-attachments/assets/fbf4a4cf-234a-4a64-a9bd-468b69545459)
+
+18.ODD ARRAY
+![Screenshot_27-8-2025_205939_www programiz com](https://github.com/user-attachments/assets/d59e4b2e-d692-4e1d-a055-a01d21fba204)
+
+19.MAX ELEMENT
+![Screenshot_27-8-2025_21529_www programiz com](https://github.com/user-attachments/assets/78aa83f1-f2de-451a-9898-93e2a28c6345)
+
+20.MIN ELEMENT
+![Screenshot_27-8-2025_211628_www programiz com](https://github.com/user-attachments/assets/3bb980ee-0d96-4f6a-87bf-daa318b335d2)
+
+21.FOUND ELEMENT
+![Screenshot_27-8-2025_212047_www programiz com](https://github.com/user-attachments/assets/e00aeb30-cfca-4723-bc79-67bbf38bf18e)
+
+22.DUPLICATE ARRAY
+![Screenshot_27-8-2025_21318_www programiz com](https://github.com/user-attachments/assets/de34b612-bd3d-442b-8f62-0f2d9eb230bd)
+
+23.SWAP ELEMENTS
+![Screenshot_27-8-2025_213843_www programiz com](https://github.com/user-attachments/assets/23d5e7e6-3814-4fa6-a3e9-27a9022fbd4e)
+
+
 
 
 
