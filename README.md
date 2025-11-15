@@ -76,6 +76,14 @@
 25.. Calculate and print the area of a circle (radius = 7.5)
 <img width="1523" height="314" alt="image" src="https://github.com/user-attachments/assets/540105c6-086d-4e25-b3d9-bde24bdf8cd1" />
 
+26.Demonstrate type casting from double to int
+<img width="1363" height="275" alt="image" src="https://github.com/user-attachments/assets/275b8123-b9f7-470d-a8d6-c325f2bcd22e" />
+
+27.Swap two numbers without using a third variable
+<img width="1403" height="345" alt="image" src="https://github.com/user-attachments/assets/f4597d71-6cff-4e4a-b0a4-8f1678cd3fa7" />
+
+
+
 
 
 
