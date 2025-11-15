@@ -73,26 +73,29 @@
 25.Print your name, age, and favorite programming language
 <img width="1441" height="346" alt="image" src="https://github.com/user-attachments/assets/146d4f43-2399-4b8d-9118-774c451861ec" />
 
-25.. Calculate and print the area of a circle (radius = 7.5)
+26. Calculate and print the area of a circle (radius = 7.5)
 <img width="1523" height="314" alt="image" src="https://github.com/user-attachments/assets/540105c6-086d-4e25-b3d9-bde24bdf8cd1" />
 
-26.Demonstrate type casting from double to int
+27.Demonstrate type casting from double to int
 <img width="1363" height="275" alt="image" src="https://github.com/user-attachments/assets/275b8123-b9f7-470d-a8d6-c325f2bcd22e" />
 
-27.Swap two numbers without using a third variable
+28.Swap two numbers without using a third variable
 <img width="1403" height="345" alt="image" src="https://github.com/user-attachments/assets/f4597d71-6cff-4e4a-b0a4-8f1678cd3fa7" />
 
-28.Check if a number is even or odd
+29.Check if a number is even or odd
 <img width="1402" height="375" alt="image" src="https://github.com/user-attachments/assets/495d4562-5fe3-49df-a17c-3967db8d8b54" />
 
-29.Find the largest of three numbers
+30.Find the largest of three numbers
 <img width="1383" height="429" alt="image" src="https://github.com/user-attachments/assets/ec408f52-41b5-4676-a356-50960308f36f" />
 
-30.Print multiplication table of a number
+31.Print multiplication table of a number
 <img width="1179" height="341" alt="image" src="https://github.com/user-attachments/assets/c6a6dd6a-2f66-4a58-828f-9d6f9a41d2a0" />
 
-31.. Find the sum and average of elements in an array
+32.. Find the sum and average of elements in an array
 <img width="1325" height="429" alt="image" src="https://github.com/user-attachments/assets/7b304c0b-1f14-4d40-a0e6-5d32b106d199" />
+
+33.Create a Student class and display student info
+<img width="1342" height="336" alt="image" src="https://github.com/user-attachments/assets/5a4f2c44-48ee-4ff9-9fd5-0926c238872c" />
 
 
 
