@@ -82,6 +82,13 @@
 27.Swap two numbers without using a third variable
 <img width="1403" height="345" alt="image" src="https://github.com/user-attachments/assets/f4597d71-6cff-4e4a-b0a4-8f1678cd3fa7" />
 
+28.Check if a number is even or odd
+<img width="1402" height="375" alt="image" src="https://github.com/user-attachments/assets/495d4562-5fe3-49df-a17c-3967db8d8b54" />
+
+29.Find the largest of three numbers
+<img width="1383" height="429" alt="image" src="https://github.com/user-attachments/assets/ec408f52-41b5-4676-a356-50960308f36f" />
+
+
 
 
 
