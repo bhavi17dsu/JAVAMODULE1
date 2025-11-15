@@ -70,6 +70,14 @@
 24.. Print "Hello Java" to the console
 <img width="1381" height="245" alt="image" src="https://github.com/user-attachments/assets/290c80ec-2d10-4dc7-b069-d8efc46a0f2a" />
 
+25.Print your name, age, and favorite programming language
+<img width="1441" height="346" alt="image" src="https://github.com/user-attachments/assets/146d4f43-2399-4b8d-9118-774c451861ec" />
+
+25.. Calculate and print the area of a circle (radius = 7.5)
+<img width="1523" height="314" alt="image" src="https://github.com/user-attachments/assets/540105c6-086d-4e25-b3d9-bde24bdf8cd1" />
+
+
+
 
 
 
