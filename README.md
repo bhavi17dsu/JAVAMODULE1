@@ -67,6 +67,10 @@
 23.SWAP ELEMENTS
 ![Screenshot_27-8-2025_213843_www programiz com](https://github.com/user-attachments/assets/23d5e7e6-3814-4fa6-a3e9-27a9022fbd4e)
 
+24.. Print "Hello Java" to the console
+<img width="1381" height="245" alt="image" src="https://github.com/user-attachments/assets/290c80ec-2d10-4dc7-b069-d8efc46a0f2a" />
+
+
 
 
 
