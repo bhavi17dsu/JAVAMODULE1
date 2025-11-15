@@ -88,6 +88,13 @@
 29.Find the largest of three numbers
 <img width="1383" height="429" alt="image" src="https://github.com/user-attachments/assets/ec408f52-41b5-4676-a356-50960308f36f" />
 
+30.Print multiplication table of a number
+<img width="1179" height="341" alt="image" src="https://github.com/user-attachments/assets/c6a6dd6a-2f66-4a58-828f-9d6f9a41d2a0" />
+
+31.. Find the sum and average of elements in an array
+<img width="1325" height="429" alt="image" src="https://github.com/user-attachments/assets/7b304c0b-1f14-4d40-a0e6-5d32b106d199" />
+
+
 
 
 
